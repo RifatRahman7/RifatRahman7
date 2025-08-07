@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rifat Rahman</h1>
 <h3 align="center">I'm a passionate and dedicated FrontEnd Web Developer with a strong foundation in the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy crafting scalable, secure, and user-friendly web applications.
-Now I am exploring Next.js.</h3>
+Now I am currently working with two projects and  exploring Next.js and other new technologies that are being used worldwide</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
