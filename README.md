@@ -1,3 +1,4 @@
+![banner](https://github.com/RifatRahman7/RifatRahman7/blob/cf2cfa63e91b1bbebdb05bbc46fe7702766b26be/Banner%20jpg.jpg)
 Hi, I'm Md. Rifat Rahman 👋
 
 I'm a passionate and dedicated FrontEnd Web Developer with a strong foundation in the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy crafting scalable, secure, and user-friendly web applications.
