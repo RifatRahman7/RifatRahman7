@@ -1,4 +1,3 @@
-![Banner](./banner jpg.jpg)
 Hi, I'm Md. Rifat Rahman 👋
 
 I'm a passionate and dedicated FrontEnd Web Developer with a strong foundation in the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy crafting scalable, secure, and user-friendly web applications.
