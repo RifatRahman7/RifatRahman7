@@ -29,16 +29,8 @@ Now I am currently working with two projects and  exploring Next.js and other ne
 </p>
 
 
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rifatrahman7&show_icons=true&locale=en&layout=compact" alt="rifatrahman7" />
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifatrahman7&" alt="rifatrahman7" />
-</p>
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifatrahman7&show_icons=true&locale=en" alt="rifatrahman7" />
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rifatrahman7&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifatrahman7&" alt="rifatrahman7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rifatrahman7&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
